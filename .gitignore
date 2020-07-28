@@ -1,0 +1,11 @@
+admin.py
+login.txt
+abc*
+.gradle
+build
+target
+.project
+.classpath
+*.log
+.class
+.idea/*
